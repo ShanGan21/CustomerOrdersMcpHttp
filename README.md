@@ -132,9 +132,6 @@ Claude calls `search_orders(1)` → returns two orders (Annual Cloud Plan, Train
 
 ## Setup in Action
 
-**MCP Inspector** showing connected tools:
-![MCP Inspector](docs/mcp-inspector.png)
-
 **Claude Connectors** page with ngrok URL:
 ![Claude Connectors](docs/claude-connectors.png)
 
